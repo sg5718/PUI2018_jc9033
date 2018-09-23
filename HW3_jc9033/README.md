@@ -2,8 +2,8 @@
 
 # Screenshoots
 
- ![image](HW3_jc9033/assignment1_image/a1.png)
+ ![image](assignment1_image/a1.png)
  
- ![image](HW3_jc9033/assignment1_image/a2.png)
+ ![image](assignment1_image/a2.png)
  
- ![image](HW3_jc9033/assignment1_image/a3.png)
+ ![image](assignment1_image/a3.png)
