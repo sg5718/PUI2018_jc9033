@@ -1,9 +1,9 @@
 # Assignment 2
-Group Work with Effy Fan (yf1150)<br>  
+Group Work with Effy Fan (yf1150)<br>
 Contirbution:<br>  
-T-Test: Junjie Cai<br>  
-Correlation: Effy Fan<br>  
-Logistic Regression: Junjie Cai & Effy Fan<br>  
+* T-Test: Junjie Cai<br>  
+* Correlation: Effy Fan<br>  
+* Logistic Regression: Junjie Cai & Effy Fan<br>  
 
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
@@ -14,14 +14,14 @@ Logistic Regression | 1, Waist-to-height ratio | Ratio | 1, Morbidity of hyperte
   |||||||||
 
 ![Figure 1](journal.pone.0105340.g005.png)
-Figure 1
+Figure 1.
 Object-context and social recognition.<br>  
 
 ![Figure 2](journal.pone.0010257.g002.png)
-Figure 2
+Figure 2.
 FCA results based on horses' and riders' postures at work.
 Riders' hands: high HHa, middle MHa, low LHa; Riders' heels: high HHe, middle MHe, low LHe; Reins length: short SR, medium MR, long LR, Horses' neck: high HN, horizontal HN, low LN, hollow HoN, flat FN, round RN.<br>  
 
 ![Figure 3](WHtR.png)
-Figure 3
+Figure 3.
 ROC curves of the anthropometric indices for hypertension, diabetes, and dyslipidemia in men and women.<br>   
