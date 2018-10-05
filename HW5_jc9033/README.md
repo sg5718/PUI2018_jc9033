@@ -1,9 +1,9 @@
 # Assignment 2
 Group Work with Effy Fan (yf1150)<br>
-Contirbution:<br>  
-* T-Test: Junjie Cai<br>  
-* Correlation: Effy Fan<br>  
-* Logistic Regression: Junjie Cai & Effy Fan<br>  
+Contirbution:
+* T-Test: Junjie Cai
+* Correlation: Effy Fan
+* Logistic Regression: Junjie Cai & Effy Fan
 
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
