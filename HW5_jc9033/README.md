@@ -59,11 +59,11 @@ ROC curves of the anthropometric indices for hypertension, diabetes, and dyslipi
 # Assignment 3: Reproduce the analysis of the Hard to Employ program in NY
 Individual work<br>
 
-1. Reproduce the analysis of the Hard to Employ program in NY.<br> 
+1. Reproduce the analysis of the Hard to Employ program in NY.<br>
 2. Complete the Z-test and the Chi-squre test.
 
 # Assignment 4: Tests of correlation using the scipy package with citibike data.
 Individual work<br>
 
-1. Complete Pearson’s test, Spearman’s test and K-S test to assess correlation between 2 samples of citibike data.<br> 
+1. Complete Pearson’s test, Spearman’s test and K-S test to assess correlation between 2 samples of citibike data.<br>
 2. trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
