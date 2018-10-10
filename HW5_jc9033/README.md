@@ -64,5 +64,3 @@ Did the Z-test and the Chi-squre test.
 
 # Assignment 4
 Individual work<br>
-
-For the later two tests, use 201502 and 201506 citibike data. Used PLUTO shapefile and ArcGIS to determine whether a point is in certain polygon. File: MN.csv, BK.csv Tests of correlation using the scipy package with citibike data.
