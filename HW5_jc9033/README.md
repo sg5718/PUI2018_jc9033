@@ -1,6 +1,6 @@
 # Assignment 1
 Individual work<br>
-Please refer to the pull request
+Please refer to the pull request: https://github.com/christinebidds22/PUI2018_cb4221/pull/1
 
 	a. Verify Null and alternative hypotheses <br>
 The original hypothesis is a little bit confusing. <br>
